@@ -9,7 +9,8 @@ Para ejecutar los tests de las homeworks debes:
 1. Desde tu terminal, dirígete a la carpeta raíz de todas las homeworks y ejecuta el comando:
 
 ```bash
-    npm install
+    
+npm install
 ```
 
 2. Luego de que se hayan instalado las dependencias pueden comenzar a correr los tests.
@@ -72,4 +73,4 @@ git push
 
 Recuerda que todos estos comandos son necesarios. Si tienes alguna duda, ¡te invitamos a que repases estos comandos en el Prep Course!
 
-Encontrarás toda la explicación dentro de: "**`Módulo 2 | Creación de repositorio y primer commit`**".
+Encontrarás toda la explicación dentro de: "**`Módulo 2 | Creaciónn de repositorio y primer commit`**".
